@@ -1,3 +1,4 @@
+
 var FilteredList = React.createClass({
   filterList: function(event){
     var updatedList = this.state.initialItems;
